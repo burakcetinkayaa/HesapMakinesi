@@ -1,0 +1,50 @@
+﻿sayfa{
+    width:360px;
+    margin:auto;
+}
+table{
+    background: rgb(71, 11, 71);
+    border-spacing: 10px;
+    text-align: center;
+    border-radius: 10px
+
+}
+table .btn{
+    width: 60px;
+    background: #808080;
+    text-align: center;
+    line-height: 60px;
+    color:white;
+    font-size: 1.5em;
+    border-radius: 10px
+}
+table .btn:hover{
+    opacity:0.5;
+}
+#islem, #gosterge{
+    padding: 5px;
+    text-align: right;
+    border-radius: 10px
+}
+#gosterge {
+    height: 60px;
+    background:  #e6e6e6;
+    color:#007485;
+    font-size: 1.8em;
+    text-align: right;
+    line-height: 40px;
+    padding: 10px;
+    box-sizing: border-box;
+    border-radius: 10px
+}
+#islem  {
+    background:#bfbfbf;
+    color: black;
+
+}
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: lightgray;
+  color: white;
+}
